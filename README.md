@@ -14,13 +14,14 @@ I am very excited to share my second project in Data Analysis is a Netflix Inter
 ## 📊Insights:
 
 1️⃣ KPIS:
-✅ Counting number of Shows(Movies&TV Shows)
 
-✅ Counting number of Directors
+  ✅ Counting number of Shows(Movies&TV Shows)
 
-✅ Counting number of Countries
+  ✅ Counting number of Directors
 
-✅ Counting number of Age Category
+  ✅ Counting number of Countries
+
+  ✅ Counting number of Age Category
 
 2️⃣ Presenting the number of shows produced and distribution in each country in the world
 
