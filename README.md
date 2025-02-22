@@ -37,6 +37,7 @@ I am very excited to share my second project in Data Analysis is a Netflix Inter
 
 ## 🔺What I improved:
 1️⃣Handle multi-value to keep Normalization by data modeling
+
 2️⃣ Make relationship between tables to improve performance of Dashboards by using Data modeling
 
 Linked-In Profile:
