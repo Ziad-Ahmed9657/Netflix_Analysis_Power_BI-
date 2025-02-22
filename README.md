@@ -40,5 +40,5 @@ I am very excited to share my second project in Data Analysis is a Netflix Inter
 
 2️⃣ Make relationship between tables to improve performance of Dashboards by using Data modeling
 
-Linked-In Profile:
+🔗Linked-In Profile:
 https://www.linkedin.com/in/ziad-ahmed-gharieb-327a87275/
