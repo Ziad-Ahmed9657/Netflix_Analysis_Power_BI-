@@ -3,9 +3,9 @@ I am very excited to share my second project in Data Analysis is a Netflix Inter
 
 ## Dashboard Images:
 
-![OverView Dashboard](https://github.com/user-attachments/assets/e40fef2f-7765-43b6-92d0-e68167806dc7)
+![OverView Dashboard](https://github.com/user-attachments/assets/2e0ea66b-3cbd-4b4c-9409-eac0fc609b17)
 
-![Trends Dashboard](https://github.com/user-attachments/assets/b264d3d1-7d54-4618-b034-d58a7e21722c)
+![Trends Dashboard](https://github.com/user-attachments/assets/df7e7d47-86f0-4a0b-b3a8-1470469891c2)
 
 ![image](https://github.com/user-attachments/assets/ac23bfe8-9ff2-4bfc-b9ea-439fac0d4187)
 
