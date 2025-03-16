@@ -42,3 +42,10 @@ I am very excited to share my second project in Data Analysis is a Netflix Inter
 
 🔗Linked-In Profile:
 https://www.linkedin.com/in/ziad-ahmed-gharieb-327a87275/
+
+## Freelance Websites:
+### Kamsat: 
+https://khamsat.com/user/zeyad_7ahmed
+
+### Upwork: 
+https://www.upwork.com/freelancers/~01d8822699a3c3490c
